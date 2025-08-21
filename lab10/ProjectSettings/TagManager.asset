@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Coin
+  - Enemy
+  - item
+  - DeathZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - enemy
+  - item
+  - FeetTrigger
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1911617703
+    locked: 0
+  - name: Ground
+    uniqueID: 1989037497
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2351132783
+    locked: 0
+  - name: Enemy
+    uniqueID: 597499373
+    locked: 0
+  - name: Player
+    uniqueID: 2771204343
+    locked: 0
+  - name: coin
+    uniqueID: 1243291215
+    locked: 0
+  - name: UI
+    uniqueID: 2656587941
+    locked: 0
+  - name: item
+    uniqueID: 1809677885
+    locked: 0
+  - name: keyitem
+    uniqueID: 1987635981
+    locked: 0
+  m_RenderingLayers:
+  - Default
