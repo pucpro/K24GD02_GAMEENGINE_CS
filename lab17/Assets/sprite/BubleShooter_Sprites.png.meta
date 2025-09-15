@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 807b66ff09abab84591337c9fc4135fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -348255394187905376
+    second: BubleShooter_Sprites_0
+  - first:
+      213: -3689618630980352910
+    second: BubleShooter_Sprites_1
+  - first:
+      213: 2790158294997547650
+    second: BubleShooter_Sprites_2
+  - first:
+      213: 364035099025315167
+    second: BubleShooter_Sprites_3
+  - first:
+      213: 7897956179328628607
+    second: BubleShooter_Sprites_4
+  - first:
+      213: 862382589492024650
+    second: BubleShooter_Sprites_5
+  - first:
+      213: 6710631579672455156
+    second: BubleShooter_Sprites_6
+  - first:
+      213: 4595900001523489508
+    second: BubleShooter_Sprites_7
+  - first:
+      213: -3750514010008554590
+    second: BubleShooter_Sprites_8
+  - first:
+      213: 3336938646382372504
+    second: BubleShooter_Sprites_9
+  - first:
+      213: 4459529519588466423
+    second: BubleShooter_Sprites_10
+  - first:
+      213: -8245585702553416110
+    second: BubleShooter_Sprites_11
+  - first:
+      213: -5791489199821130336
+    second: BubleShooter_Sprites_12
+  - first:
+      213: 5937295002927872248
+    second: BubleShooter_Sprites_13
+  - first:
+      213: 7617491783985589287
+    second: BubleShooter_Sprites_14
+  - first:
+      213: -1212715358377064531
+    second: BubleShooter_Sprites_15
+  - first:
+      213: -698152041398118632
+    second: BubleShooter_Sprites_16
+  - first:
+      213: -556641317006281265
+    second: BubleShooter_Sprites_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1321
+        width: 533
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6f05a609fba2bf0800000000000000
+      internalID: -348255394187905376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1149
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274c0cf4767dbccc0800000000000000
+      internalID: -3689618630980352910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1147
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a3078bf22a8b620800000000000000
+      internalID: 2790158294997547650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1143
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f559d2b6eff4d0500800000000000000
+      internalID: 364035099025315167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1146
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77fb78cc4d2b9d60800000000000000
+      internalID: 7897956179328628607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1158
+        width: 102
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a455723656cc7fb00800000000000000
+      internalID: 862382589492024650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1001
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f725e40ed3f02d50800000000000000
+      internalID: 6710631579672455156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 999
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea560683bae7cf30800000000000000
+      internalID: 4595900001523489508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 999
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a37054016f73fbc0800000000000000
+      internalID: -3750514010008554590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1009
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896e4eed4003f4e20800000000000000
+      internalID: 3336938646382372504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1009
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe5070787e63ed30800000000000000
+      internalID: 4459529519588466423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1005
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e83429d7bc19d80800000000000000
+      internalID: -8245585702553416110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 883
+        width: 192
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a57624e14f70afa0800000000000000
+      internalID: -5791489199821130336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 890
+        width: 199
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8b7381952856250800000000000000
+      internalID: 5937295002927872248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 886
+        width: 198
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ceae71b64c6b960800000000000000
+      internalID: 7617491783985589287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 882
+        width: 192
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7464a8ec19b2fe0800000000000000
+      internalID: -1212715358377064531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1199
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8175045da6aaf46f0800000000000000
+      internalID: -698152041398118632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubleShooter_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 31
+        width: 504
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5f880eba96648f0800000000000000
+      internalID: -556641317006281265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BubleShooter_Sprites_0: -348255394187905376
+      BubleShooter_Sprites_1: -3689618630980352910
+      BubleShooter_Sprites_10: 4459529519588466423
+      BubleShooter_Sprites_11: -8245585702553416110
+      BubleShooter_Sprites_12: -5791489199821130336
+      BubleShooter_Sprites_13: 5937295002927872248
+      BubleShooter_Sprites_14: 7617491783985589287
+      BubleShooter_Sprites_15: -1212715358377064531
+      BubleShooter_Sprites_16: -698152041398118632
+      BubleShooter_Sprites_17: -556641317006281265
+      BubleShooter_Sprites_2: 2790158294997547650
+      BubleShooter_Sprites_3: 364035099025315167
+      BubleShooter_Sprites_4: 7897956179328628607
+      BubleShooter_Sprites_5: 862382589492024650
+      BubleShooter_Sprites_6: 6710631579672455156
+      BubleShooter_Sprites_7: 4595900001523489508
+      BubleShooter_Sprites_8: -3750514010008554590
+      BubleShooter_Sprites_9: 3336938646382372504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
