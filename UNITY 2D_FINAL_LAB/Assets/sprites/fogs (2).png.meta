@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 990103f589de63a478c5a057c040a863
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5405501636230703973
+    second: fogs (2)_0
+  - first:
+      213: 6760349214226455724
+    second: fogs (2)_1
+  - first:
+      213: 239591167771534152
+    second: fogs (2)_2
+  - first:
+      213: 8261820630364565464
+    second: fogs (2)_3
+  - first:
+      213: -5060851504687690278
+    second: fogs (2)_4
+  - first:
+      213: 8104260347169414068
+    second: fogs (2)_5
+  - first:
+      213: 5313414079519841992
+    second: fogs (2)_6
+  - first:
+      213: -1422064081544379213
+    second: fogs (2)_7
+  - first:
+      213: -2738389570415373762
+    second: fogs (2)_8
+  - first:
+      213: 6612432521563529915
+    second: fogs (2)_9
+  - first:
+      213: 3331589554735700709
+    second: fogs (2)_10
+  - first:
+      213: 2629746976882784578
+    second: fogs (2)_11
+  - first:
+      213: 2937292889982911071
+    second: fogs (2)_12
+  - first:
+      213: 7623613328066132865
+    second: fogs (2)_13
+  - first:
+      213: 8345556251636811277
+    second: fogs (2)_14
+  - first:
+      213: -4724215842000628576
+    second: fogs (2)_15
+  - first:
+      213: -6319465443886033747
+    second: fogs (2)_16
+  - first:
+      213: 736336059914681885
+    second: fogs (2)_17
+  - first:
+      213: 8867611035979630912
+    second: fogs (2)_18
+  - first:
+      213: -7154734280989319771
+    second: fogs (2)_19
+  - first:
+      213: 9168775896303142485
+    second: fogs (2)_20
+  - first:
+      213: -3704630648044183812
+    second: fogs (2)_21
+  - first:
+      213: -938159404854901855
+    second: fogs (2)_22
+  - first:
+      213: 2645449061213991081
+    second: fogs (2)_23
+  - first:
+      213: 6377180430304930764
+    second: fogs (2)_24
+  - first:
+      213: -5368712505356491470
+    second: fogs (2)_25
+  - first:
+      213: 725688776638971380
+    second: fogs (2)_26
+  - first:
+      213: 2097636808415645298
+    second: fogs (2)_27
+  - first:
+      213: -1158126760066535646
+    second: fogs (2)_28
+  - first:
+      213: 6873252685538012915
+    second: fogs (2)_29
+  - first:
+      213: 209168990735098188
+    second: fogs (2)_30
+  - first:
+      213: -8593921418460696472
+    second: fogs (2)_31
+  - first:
+      213: -1655196350999930420
+    second: fogs (2)_32
+  - first:
+      213: 6299705867729699769
+    second: fogs (2)_33
+  - first:
+      213: -8855063293286900977
+    second: fogs (2)_34
+  - first:
+      213: 1921992015073958170
+    second: fogs (2)_35
+  - first:
+      213: 209930964001101297
+    second: fogs (2)_36
+  - first:
+      213: -8125811023370715320
+    second: fogs (2)_37
+  - first:
+      213: 1960027762628629039
+    second: fogs (2)_38
+  - first:
+      213: -8818712856413633317
+    second: fogs (2)_39
+  - first:
+      213: 3799298799635741325
+    second: fogs (2)_40
+  - first:
+      213: -6973286589025570147
+    second: fogs (2)_41
+  - first:
+      213: -7349674533138592121
+    second: fogs (2)_42
+  - first:
+      213: 8907920880921080859
+    second: fogs (2)_43
+  - first:
+      213: 5344106079961964049
+    second: fogs (2)_44
+  - first:
+      213: -1715939283882991149
+    second: fogs (2)_45
+  - first:
+      213: -8151302326040261939
+    second: fogs (2)_46
+  - first:
+      213: 4986559432116376327
+    second: fogs (2)_47
+  - first:
+      213: -1779309076588877377
+    second: fogs (2)_48
+  - first:
+      213: 2425359011543521941
+    second: fogs (2)_49
+  - first:
+      213: 2423425293431410437
+    second: fogs (2)_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fogs (2)_0
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 167
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56be25c3913340b40800000000000000
+      internalID: 5405501636230703973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogs (2)_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 167
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b484b39040d34ce0800000000000000
+      internalID: -1422064081544379213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogs (2)_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32d1ceb1394ff9d0800000000000000
+      internalID: -2738389570415373762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogs (2)_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 82
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2e80d185414cb50800000000000000
+      internalID: 6612432521563529915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogs (2)_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 82
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea5c6b6c0f2c3e20800000000000000
+      internalID: 3331589554735700709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 36f5cb5b33d33fc4286c404dbbf52c52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fogs (2)_0: 5405501636230703973
+      fogs (2)_1: 6760349214226455724
+      fogs (2)_10: 3331589554735700709
+      fogs (2)_11: 2629746976882784578
+      fogs (2)_12: 2937292889982911071
+      fogs (2)_13: 7623613328066132865
+      fogs (2)_14: 8345556251636811277
+      fogs (2)_15: -4724215842000628576
+      fogs (2)_16: -6319465443886033747
+      fogs (2)_17: 736336059914681885
+      fogs (2)_18: 8867611035979630912
+      fogs (2)_19: -7154734280989319771
+      fogs (2)_2: 239591167771534152
+      fogs (2)_20: 9168775896303142485
+      fogs (2)_21: -3704630648044183812
+      fogs (2)_22: -938159404854901855
+      fogs (2)_23: 2645449061213991081
+      fogs (2)_24: 6377180430304930764
+      fogs (2)_25: -5368712505356491470
+      fogs (2)_26: 725688776638971380
+      fogs (2)_27: 2097636808415645298
+      fogs (2)_28: -1158126760066535646
+      fogs (2)_29: 6873252685538012915
+      fogs (2)_3: 8261820630364565464
+      fogs (2)_30: 209168990735098188
+      fogs (2)_31: -8593921418460696472
+      fogs (2)_32: -1655196350999930420
+      fogs (2)_33: 6299705867729699769
+      fogs (2)_34: -8855063293286900977
+      fogs (2)_35: 1921992015073958170
+      fogs (2)_36: 209930964001101297
+      fogs (2)_37: -8125811023370715320
+      fogs (2)_38: 1960027762628629039
+      fogs (2)_39: -8818712856413633317
+      fogs (2)_4: -5060851504687690278
+      fogs (2)_40: 3799298799635741325
+      fogs (2)_41: -6973286589025570147
+      fogs (2)_42: -7349674533138592121
+      fogs (2)_43: 8907920880921080859
+      fogs (2)_44: 5344106079961964049
+      fogs (2)_45: -1715939283882991149
+      fogs (2)_46: -8151302326040261939
+      fogs (2)_47: 4986559432116376327
+      fogs (2)_48: -1779309076588877377
+      fogs (2)_49: 2425359011543521941
+      fogs (2)_5: 8104260347169414068
+      fogs (2)_50: 2423425293431410437
+      fogs (2)_6: 5313414079519841992
+      fogs (2)_7: -1422064081544379213
+      fogs (2)_8: -2738389570415373762
+      fogs (2)_9: 6612432521563529915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
